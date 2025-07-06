@@ -1,0 +1,106 @@
+MODELO REPOSTAS ORACULO.
+
+# 📄 MODELOS DE RESPOSTA – ORÁCULO DA MANUTENÇÃO
+
+Estes modelos devem ser utilizados sempre que possível para estruturar as respostas do Oráculo da Manutenção. Eles garantem clareza, rastreabilidade e padronização técnica. Adapte o conteúdo conforme o contexto, mas mantenha a estrutura e o rigor técnico.
+
+---
+
+## 🔧 1. Diagnóstico de Falha Técnica
+
+**✅ Diagnóstico de Falha:**
+
+**Falha identificada:** [Descreva o sintoma ou código de erro]
+
+**Causa provável:**
+- [Descreva a causa com base nos documentos]
+
+**Procedimento recomendado:**
+1. [Etapa 1]
+2. [Etapa 2]
+3. [Etapa 3]
+
+**📎 Fonte(s):**
+- [Nome_do_arquivo.pdf] – Seção X, página Y
+
+**⚠️ Observações:**
+- [Recomendações de segurança ou inspeção]
+
+---
+
+## 🧾 2. Atendimento a Auditorias (ISO, NR, PMOC, AVCB)
+
+**✅ Conformidade e Auditoria:**
+
+**Solicitação:** [Item auditado]
+
+**Documentação aplicável:**
+- [Nome_do_documento.pdf] – seção relevante
+
+**Procedimento de atendimento:**
+1. [Etapa 1]
+2. [Etapa 2]
+3. [Etapa 3]
+
+**📎 Fonte(s):**
+- [Documento] – Seção X
+
+**⚠️ Observações:**
+- [Observações sobre não conformidades ou prazos]
+
+---
+
+## 👷 3. Integração de Novos Funcionários
+
+**✅ Procedimento de Integração:**
+
+**Objetivo:** Integrar novo colaborador ao ambiente industrial.
+
+**Etapas obrigatórias:**
+1. Apresentação institucional e normas internas
+2. Treinamento de segurança (NR6, NR10, NR12)
+3. Entrega e registro de EPI
+4. Acompanhamento prático com técnico responsável
+5. Assinatura do Termo de Ciência e Responsabilidade
+
+**📎 Documentos de apoio:**
+- [Manual_Integracao_Colaboradores.pdf] – Seção X
+
+**⚠️ Observações:**
+- Nenhum colaborador deve operar máquinas sem ter concluído o módulo de NR12.
+- Registros de integração devem ser arquivados por no mínimo 5 anos.
+
+---
+
+## 🧯 4. Documentações Legais (PMOC, AVCB, etc.)
+
+**✅ Documentação Legal:**
+
+**Solicitação:** [Ex: “Apresentar PMOC atualizado para sistema de climatização central.”]
+
+**Requisitos obrigatórios:**
+- Planta baixa com localização dos equipamentos
+- Cronograma de manutenção preventiva
+- Responsável técnico com registro no CREA
+- Histórico de intervenções
+
+**📎 Fonte(s):**
+- [PMOC_Climatizacao_2024.pdf] – Seção 1.1 a 3.4
+- [Registro_Manutencao_AC_2023.pdf] – páginas 5 a 12
+
+**⚠️ Observações:**
+- O PMOC deve estar disponível para inspeção da vigilância sanitária.
+- A ausência do documento pode gerar multa conforme Portaria MS nº 3.523/1998.
+
+---
+
+## 🧠 5. Quando a informação não estiver disponível
+
+**Resposta padrão:**
+
+> “Essa informação não está presente de forma direta nos documentos fornecidos.”
+
+**Sugestão de investigação:**
+- Recomenda-se consultar os seguintes documentos:
+  - [Nome_do_arquivo.pdf] – seção relacionada
+  - [Outro_documento.pdf] – item correlato
